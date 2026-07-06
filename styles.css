@@ -17,31 +17,33 @@
 }
 
 .navbar {
-  overflow: hidden;
-  background-color: darkgreen;
-  position: fixed;
-  top: 100px;
-  width: 100%;
-  color: rgb(235, 250, 235);
+    overflow: hidden;
+    background-color: darkgreen;
+    position: fixed;
+    top: 100px;
+    width: 100%;
+    color: rgb(235, 250, 235);
+    
 }
 
 
 .main {
-  padding: 16px;
-  margin-top: 30px;
-  height: 1500px; /* Used in this example to enable scrolling */
+    padding: 16px;
+    margin-top: 30px;
+    height: 1500px; /* Used in this example to enable scrolling */
 }
 
 #page-head {
-  position: fixed; 
-  top: 0; 
-  left: 0; 
-  z-index: 9; /* fixed at top */
-  width: 100%; height: 80px; 
-  padding: 10px; /* dimensions */
-  display: flex; 
-  align-items: center; /* alignment */
-  font-size: 250%;
+    position: fixed; 
+    top: 0; 
+    left: 0; 
+    z-index: 9; /* fixed at top */
+    width: 100%; 
+    height: 80px; 
+    padding: 10px; /* dimensions */
+    display: flex; 
+    align-items: center; /* alignment */
+    font-size: 250%;
     font-weight: bold;
     background-color: darkgreen;
     color: rgb(235, 250, 235);
