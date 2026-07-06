@@ -1,0 +1,12 @@
+/*header selector*/
+#heading{
+    font-siz: 500;
+    font-weight: bold;
+    color: chocolate;
+}
+/*class selector*/
+.wrapper{
+    height: 80%;
+    border: 1px solid blue;
+    border-radius: 2px;
+}
